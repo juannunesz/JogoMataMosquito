@@ -5,7 +5,8 @@ html{
 body{
   overflow-x: hidden;
   background-image: url(/src/img/bg.jpg);
-  background-repeat: no-repeat;
+  background-repeat: unset;
+  background-size: cover;
 }
 
 /* Tamanhos dos mosquitos */
