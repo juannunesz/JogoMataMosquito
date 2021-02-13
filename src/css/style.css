@@ -1,4 +1,9 @@
+html{
+  cursor: url(/src/img/mata_mosca.png) 30 30, auto;
+}
+
 body{
+  overflow-x: hidden;
   background-image: url(/src/img/bg.jpg);
   background-repeat: no-repeat;
 }
