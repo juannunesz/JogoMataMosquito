@@ -2,7 +2,7 @@
 
 # Clone Pagina Netflix
 
-<img src="/src/img/imagemJogo.png" alt="Imagem  do projeto">
+<img src="./src/img/imagemJogo.png" alt="Imagem  do projeto">
 
 > Projeto tem como obejtivo principal ser um projeto pessoal 
 no qual demonstro habilidades no front-end / criação de um jogo com o objetivo sobreviver a ondas de mosquitos, utilizei para a criação deste Jogo: HTML , CSS e JavaScript(Es6).
